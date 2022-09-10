@@ -1,0 +1,10 @@
+D:\ITVDNLesson\Chess\Liba\ChessDemo\bin\Debug\ChessDemo.exe.config
+D:\ITVDNLesson\Chess\Liba\ChessDemo\bin\Debug\ChessDemo.exe
+D:\ITVDNLesson\Chess\Liba\ChessDemo\bin\Debug\ChessDemo.pdb
+D:\ITVDNLesson\Chess\Liba\ChessDemo\bin\Debug\Chess.dll
+D:\ITVDNLesson\Chess\Liba\ChessDemo\bin\Debug\Chess.pdb
+D:\ITVDNLesson\Chess\Liba\ChessDemo\obj\Debug\ChessDemo.csproj.AssemblyReference.cache
+D:\ITVDNLesson\Chess\Liba\ChessDemo\obj\Debug\ChessDemo.csproj.CoreCompileInputs.cache
+D:\ITVDNLesson\Chess\Liba\ChessDemo\obj\Debug\ChessDemo.csproj.CopyComplete
+D:\ITVDNLesson\Chess\Liba\ChessDemo\obj\Debug\ChessDemo.exe
+D:\ITVDNLesson\Chess\Liba\ChessDemo\obj\Debug\ChessDemo.pdb

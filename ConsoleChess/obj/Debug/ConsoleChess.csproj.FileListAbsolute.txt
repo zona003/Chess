@@ -1,0 +1,10 @@
+D:\ITVDNLesson\Chess\ConsoleChess\bin\Debug\ConsoleChess.exe.config
+D:\ITVDNLesson\Chess\ConsoleChess\bin\Debug\ConsoleChess.exe
+D:\ITVDNLesson\Chess\ConsoleChess\bin\Debug\ConsoleChess.pdb
+D:\ITVDNLesson\Chess\ConsoleChess\bin\Debug\ChessClientLib.dll
+D:\ITVDNLesson\Chess\ConsoleChess\bin\Debug\ChessClientLib.pdb
+D:\ITVDNLesson\Chess\ConsoleChess\obj\Debug\ConsoleChess.csproj.AssemblyReference.cache
+D:\ITVDNLesson\Chess\ConsoleChess\obj\Debug\ConsoleChess.csproj.CoreCompileInputs.cache
+D:\ITVDNLesson\Chess\ConsoleChess\obj\Debug\ConsoleChess.csproj.CopyComplete
+D:\ITVDNLesson\Chess\ConsoleChess\obj\Debug\ConsoleChess.exe
+D:\ITVDNLesson\Chess\ConsoleChess\obj\Debug\ConsoleChess.pdb

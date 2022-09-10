@@ -1,0 +1,15 @@
+D:\ITVDNLesson\Chess\WinFormChess\bin\Debug\WinFormChess.exe.config
+D:\ITVDNLesson\Chess\WinFormChess\bin\Debug\WinFormChess.exe
+D:\ITVDNLesson\Chess\WinFormChess\bin\Debug\WinFormChess.pdb
+D:\ITVDNLesson\Chess\WinFormChess\obj\Debug\WinFormChess.csproj.AssemblyReference.cache
+D:\ITVDNLesson\Chess\WinFormChess\obj\Debug\WinFormChess.FormChess.resources
+D:\ITVDNLesson\Chess\WinFormChess\obj\Debug\WinFormChess.Properties.Resources.resources
+D:\ITVDNLesson\Chess\WinFormChess\obj\Debug\WinFormChess.csproj.GenerateResource.cache
+D:\ITVDNLesson\Chess\WinFormChess\obj\Debug\WinFormChess.csproj.CoreCompileInputs.cache
+D:\ITVDNLesson\Chess\WinFormChess\obj\Debug\WinFormChess.exe
+D:\ITVDNLesson\Chess\WinFormChess\obj\Debug\WinFormChess.pdb
+D:\ITVDNLesson\Chess\WinFormChess\bin\Debug\Chess.dll
+D:\ITVDNLesson\Chess\WinFormChess\bin\Debug\Chess.pdb
+D:\ITVDNLesson\Chess\WinFormChess\obj\Debug\WinFormChess.csproj.CopyComplete
+D:\ITVDNLesson\Chess\WinFormChess\bin\Debug\ChessClientLib.dll
+D:\ITVDNLesson\Chess\WinFormChess\bin\Debug\ChessClientLib.pdb

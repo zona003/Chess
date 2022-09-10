@@ -1,0 +1,6 @@
+D:\ITVDNLesson\Chess\ChessClientLib\bin\Debug\ChessClientLib.dll
+D:\ITVDNLesson\Chess\ChessClientLib\bin\Debug\ChessClientLib.pdb
+D:\ITVDNLesson\Chess\ChessClientLib\obj\Debug\ChessClientLib.csproj.AssemblyReference.cache
+D:\ITVDNLesson\Chess\ChessClientLib\obj\Debug\ChessClientLib.csproj.CoreCompileInputs.cache
+D:\ITVDNLesson\Chess\ChessClientLib\obj\Debug\ChessClientLib.dll
+D:\ITVDNLesson\Chess\ChessClientLib\obj\Debug\ChessClientLib.pdb
