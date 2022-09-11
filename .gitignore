@@ -1,0 +1,5 @@
+
+*.meta
+Chess/Library/
+Chess/Logs
+Chess/Debug
